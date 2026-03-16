@@ -18,11 +18,11 @@ This repository contains code to reproduce the synthetic experiments illustratin
 
 Clone the repository:
 
-git clone https://github.com/USERNAME/dependence-fidelity.git
+git clone https://github.com/NaziaRiasat/dependence-fidelity
 
 Then run:
 
-python code/synthetic_examples.py
+python code/dependence_fidelity_synthetic_examples.ipynb
 
 
 
