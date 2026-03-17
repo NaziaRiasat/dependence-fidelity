@@ -3,7 +3,7 @@
 
 Code accompanying the paper:
 
-**Covariance-Level Dependence Fidelity for Evaluating Generative Models**
+**DEPENDENCE FIDELITY AND DOWNSTREAM INFERENCE STABILITY IN GENERATIVE MODELS**
 
 This repository contains code to reproduce the synthetic experiments illustrating dependence divergence under matched marginal distributions.
 
