@@ -3,7 +3,7 @@
 
 Code accompanying the paper:
 
-**DEPENDENCE FIDELITY AND DOWNSTREAM INFERENCE STABILITY IN GENERATIVE MODELS**
+**Dependence Fidelity and Downstream Inference Stability in Generative Models**
 
 This repository contains code to reproduce the synthetic experiments illustrating dependence divergence under matched marginal distributions.
 
