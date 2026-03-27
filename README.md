@@ -2,7 +2,7 @@
 # Dependence Fidelity
 
 
-**Dependence Fidelity and Downstream Inference Stability in Generative Models** https://arxiv.org/pdf/2603.17041
+**Dependence Fidelity and Downstream Inference Stability in Generative Models** https://arxiv.org/pdf/2603.17041.
 This repository contains code to reproduce the synthetic experiments illustrating dependence divergence under matched marginal distributions.
 
 ## Contents
